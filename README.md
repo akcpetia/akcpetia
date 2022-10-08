@@ -17,5 +17,5 @@ My technical skillsets:
 
 I love my work. I like to have it done the right way, to have customers satisfied, and to be proud of it. Please contact me first to discuss the work and give you a quote on your job!
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 -->
