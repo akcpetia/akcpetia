@@ -6,7 +6,7 @@ My name is Petro. I am working as a full-stack developer since 2013. I've solved
 I have 6+ years of salesforce.com development and architecture experience in advanced administration, cross-platform integration, web integration, and workflow process design. I have also designed and built integrations between salesforce.com and PHP websites, Mailchimp, Pardot, and Marketo utilizing native integration tools as well as custom development with the Salesforce.com SOAP and REST APIs.
 
 My technical skillsets:
-- Backend: PHP, Laravel, CodeIgniter, CakePHP, Python, Go, Node.js
+- Backend: PHP, Laravel, CodeIgniter, CakePHP, Python, Ruby, Ruby on Rails, Go, Node.js
 - Frontend: Javascript, jQuery, Bootstrap, HTML, CSS, React, Redux, Vue.js
 - Solidity, Rust, Blockchain, Go(Golang), dApp, Ethereum blockchain, Bitcoin, ERC20 token
 - eCommerce: WordPress, Shopify, Landing Page development, Wix, Magento
